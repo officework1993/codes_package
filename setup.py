@@ -7,6 +7,6 @@ setup(
 	url="git@github.com:officework1993/codes_package.git",
 	author="chahal.inder0007",
         author_email="chahal.inder0007@gmail.com",
-	packages="[tensorflow"],
+	packages=["all_codes"],
 	license = "unlicense",
 	zip_safe=False)
