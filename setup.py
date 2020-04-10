@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-	name = "codes",
+	name = "git_pip_package",
 	version = "3.1.1",
 	description="This is just a test package for python install",
 	url="git@github.com:officework1993/codes_package.git",
